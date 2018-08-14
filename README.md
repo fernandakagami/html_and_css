@@ -1,1 +1,3 @@
-# html_and_css
+# Learning HTML and CSS
+
+This repository has small projects with HTML and CSS.
